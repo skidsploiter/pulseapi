@@ -1,6 +1,6 @@
 # Documentation
 
-**First, add it to reference. Then,
+**First, add it to reference. Then,**
 ```cs
 using PulseAPI;
 ```
